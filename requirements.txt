@@ -1,0 +1,12 @@
+anthropic
+flask
+google-auth
+google-auth-oauthlib
+google-api-python-client
+python-dotenv
+requests
+cloudinary
+pillow-heif
+Pillow
+ffmpeg-python
+moviepy

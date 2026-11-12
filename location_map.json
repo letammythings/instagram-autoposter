@@ -1,0 +1,102 @@
+{
+  "_instructions": "Add a new entry for each Google Drive subfolder you create. The key must exactly match the subfolder name (lowercase). Claude uses this to write accurate, place-specific captions.",
+
+  "ba na": {
+    "name": "Ba Na Hills",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "description": "A surreal French colonial hill station above Da Nang, wrapped in mist and clouds. Famous for the Golden Bridge held by giant stone hands, a fantasy castle, and a cable car that floats above the clouds.",
+    "known_for": ["Golden Bridge", "giant stone hands", "cable car", "French village", "fantasy castle", "flower gardens", "misty clouds", "mountain views"],
+    "vibes": ["dreamy", "surreal", "misty", "magical", "whimsical", "fairytale"]
+  },
+
+  "da nang": {
+    "name": "Da Nang",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "description": "A vibrant coastal city in central Vietnam with wide beaches, a glittering river, and incredible food. Where mountains meet the sea.",
+    "known_for": ["Dragon Bridge", "My Khe Beach", "Han River", "seafood", "street food", "sunsets", "Marble Mountains", "Hai Van Pass"],
+    "vibes": ["coastal", "vibrant", "laid-back", "sunny", "foodie"]
+  },
+
+  "hoian": {
+    "name": "Hoi An",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "description": "A UNESCO World Heritage ancient town near Da Nang, known for its lantern-lit streets, tailors, riverside cafes, and preserved trading port architecture.",
+    "known_for": ["lanterns", "ancient town", "Thu Bon River", "tailors", "white rose dumplings", "Cao Lau", "colorful buildings", "boat rides"],
+    "vibes": ["romantic", "golden hour", "atmospheric", "nostalgic", "colorful", "peaceful"]
+  },
+
+  "son tra": {
+    "name": "Son Tra Peninsula",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "description": "A wild jungle peninsula jutting into the sea just minutes from Da Nang, home to red-shanked douc langurs, hidden beaches, and panoramic ocean views.",
+    "known_for": ["jungle", "monkeys", "Linh Ung Pagoda", "Lady Buddha", "hidden beaches", "ocean views", "sunrise"],
+    "vibes": ["wild", "serene", "lush", "spiritual", "secluded"]
+  },
+
+  "marble mountains": {
+    "name": "Marble Mountains",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "description": "Five marble and limestone hills rising dramatically from the flat coastline, hiding caves, Buddhist sanctuaries, and sweeping views over the sea.",
+    "known_for": ["caves", "pagodas", "ocean views", "marble", "Buddha statues", "incense", "stone carving"],
+    "vibes": ["spiritual", "mysterious", "ancient", "dramatic", "scenic"]
+  },
+
+  "hoi an": {
+    "name": "Hoi An",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "description": "A UNESCO World Heritage ancient town near Da Nang, known for its lantern-lit streets, tailors, riverside cafes, and preserved trading port architecture.",
+    "known_for": ["lanterns", "ancient town", "Thu Bon River", "tailors", "white rose dumplings", "Cao Lau", "colorful buildings", "boat rides"],
+    "vibes": ["romantic", "golden hour", "atmospheric", "nostalgic", "colorful", "peaceful"]
+  },
+
+  "coffee/shops": {
+    "name": "Da Nang café culture",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "description": "Da Nang's specialty coffee scene — slow mornings, aesthetic interiors, Vietnamese drip coffee, and rooftop views. A city that takes its café culture seriously.",
+    "known_for": ["Vietnamese drip coffee", "cà phê trứng", "aesthetic interiors", "rooftop views", "slow mornings", "iced coffee", "local cafés", "quiet corners"],
+    "vibes": ["cozy", "aesthetic", "slow", "warm", "minimal", "contemplative"]
+  },
+
+  "exploring": {
+    "name": "Exploring Vietnam",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "description": "Wandering through Vietnam with no fixed plan — stumbling onto hidden alleyways, unexpected views, and the kind of moments that only happen when you slow down and look.",
+    "known_for": ["hidden alleyways", "unexpected discoveries", "local life", "motorbike rides", "street stalls", "spontaneous detours", "golden light", "genuine moments"],
+    "vibes": ["spontaneous", "curious", "wandering", "authentic", "free", "alive"]
+  },
+
+  "misc": {
+    "name": "Vietnam lifestyle",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "description": "Everyday life in Vietnam — the beauty in the ordinary, the chaos that becomes familiar, and the small details that make this place feel like home.",
+    "known_for": ["everyday beauty", "local life", "Vietnamese culture", "street moments", "ordinary magic", "daily rituals", "warm people", "simple pleasures"],
+    "vibes": ["warm", "real", "everyday", "human", "grounded", "genuine"]
+  },
+
+  "street scenes": {
+    "name": "Vietnamese street life",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "description": "The living, breathing streets of Vietnam — motorbikes weaving through traffic, vendors calling out, steam rising from bowls, and a city that never quite stops moving.",
+    "known_for": ["motorbikes", "street vendors", "busy intersections", "bánh mì carts", "incense smoke", "neon signs", "wet markets", "chaotic energy"],
+    "vibes": ["vibrant", "chaotic", "alive", "energetic", "raw", "real"]
+  },
+
+  "vn food": {
+    "name": "Vietnamese food",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "description": "The food of Vietnam — impossibly fresh, deeply layered, and eaten everywhere from plastic stools to market halls. Pho, bánh mì, bún bò, and a thousand things you haven't tried yet.",
+    "known_for": ["pho", "bánh mì", "bún bò Huế", "Cao Lau", "white rose dumplings", "fresh herbs", "street stalls", "morning markets"],
+    "vibes": ["fresh", "flavourful", "abundant", "communal", "addictive", "joyful"]
+  }
+}

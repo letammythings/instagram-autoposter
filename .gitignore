@@ -1,0 +1,22 @@
+# Secrets & credentials
+.env
+credentials.json
+token_log.txt
+
+# Runtime data
+agent_memory.json
+pending_post.json
+posted_log.json
+cron.log
+temp/
+music/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# System & tools
+.DS_Store
+logs/*.log
+.claude/
